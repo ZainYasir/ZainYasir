@@ -1,6 +1,5 @@
 # 💫 About Me:
-Im working On LLMS and AI / ML projects <br>My Hobbie interest is in Robotics , i have done work in IOT<br>Im always open to help other<br>looking for oppurtuinty that leads me to mars<br>still learning and growing
-
+📌 Building the future with LLMs and AI/ML projects.<br>When I’m not coding, I’m a hardware hero building 🦾 **Robots** 🤖 and messing with IoT gadgets.<br>I also enjoy crafting Games—because life is better with a high score!<br>My door is always open and I love helping others solve tricky bugs.<br>Currently looking for **opportunities** that eventually lead me to **Mars** 🌌 <br>Constant learner, forever growing, and caffeinated.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zain-yasir-36857431b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itszainyasir@gmail.com) 
